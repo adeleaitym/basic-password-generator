@@ -1,4 +1,4 @@
-import random # a dice roll function that gives the ability to create a random output given an input
+import random # the library that gives the ability to create a random output given an input
 import string # this library gives more complexity when generating a password
 
 def generate_password(length: int = 10):
